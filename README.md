@@ -3,7 +3,7 @@ A comprehensive dataset designed to facilitate research in secure code generatio
 
 # OpenGenCode Dataset
 ## Introduction
-OpenGenCode is a large-scale dataset of AI-generated Python programs using six different open-source Large Language Models (LLMs). This dataset includes 1,712 vulnerable and 7,288 non-vulnerable codes that perform diverse computing tasks. Each program is labeled through static analysis to identify the code vulnerabilities present in it.
+OpenGenCode is a large-scale dataset of AI-generated Python programs using six different open-source Large Language Models (LLMs). This dataset includes 2,045 vulnerable and 9,955 non-vulnerable codes that perform diverse computing tasks. Each program is labeled through static analysis to identify the code vulnerabilities present in it.
 
 ## Dataset Overview
 - **Total Programs**: 9,955
